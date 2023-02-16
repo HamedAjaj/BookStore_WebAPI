@@ -1,7 +1,7 @@
-# BookStore_WebAPI
-BookStore_Web APi using ASP.NET Core 5 , Sql Server, JWT ,Repository Pattern and EF Core
+# BookStore_API
+BookStore APi using ASP.NET Core 5 , Sql Server, JWT ,Repository Pattern and EF Core
 
-POST, PUT and DELETE actions require authentication.
+POST, PUT and DELETE actions require authentication and authorization.
 
 # EndPoints
 
